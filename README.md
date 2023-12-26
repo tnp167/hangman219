@@ -23,7 +23,7 @@ To use this project,
 1. Guess the alphabet in the Hangman word until it's fully revealed"
 
 ## File Structure
-hangman-game/
+- hangman-game/
 │
 ├── hangman
 ├── README.md
